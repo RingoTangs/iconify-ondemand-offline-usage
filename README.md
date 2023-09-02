@@ -18,7 +18,7 @@ yarn dev
 
 
 
-# Iconify 在 Vue3 工程的使用方法
+# Iconify 在前端工程的使用方法
 
 ## 方法一：Svg Framework
 
